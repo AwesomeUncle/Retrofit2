@@ -14,6 +14,12 @@ Retrofit2 Sample
 下载服务器文件到本地：
 示例代码地址：
 </br>https://github.com/cnwutianhao/Retrofit2/tree/master/app-Download
+</br>
+</br>
+# RxJava + Retrofit篇
+下载服务器文件到本地：
+示例代码地址：
+</br>https://github.com/cnwutianhao/Retrofit2/tree/master/app-RxAndroid
 
 # 项目文章地址：
 http://www.jianshu.com/p/c99dbf612740
@@ -22,7 +28,7 @@ http://www.jianshu.com/p/c99dbf612740
 
 ### License
 ```
-Copyright 2017 Haocent Technology Co.,Ltd.
+© 2017 - 2018 Haocent Technology
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
