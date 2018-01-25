@@ -16,7 +16,7 @@ Retrofit2 Sample
 </br>https://github.com/cnwutianhao/Retrofit2/tree/master/app-Download
 </br>
 </br>
-# RxJava + Retrofit篇
+# RxJava + Retrofit 篇
 下载服务器文件到本地：
 示例代码地址：
 </br>https://github.com/cnwutianhao/Retrofit2/tree/master/app-RxAndroid
